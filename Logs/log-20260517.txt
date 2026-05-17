@@ -1,0 +1,4 @@
+2026-05-17 19:21:59.167 +05:30 [INF] Fetching products - Category: null, Search: null, Page: 1
+2026-05-17 19:22:01.096 +05:30 [WRN] The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+2026-05-17 19:22:01.099 +05:30 [WRN] The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+2026-05-17 19:22:01.173 +05:30 [INF] Fetched 3 products.
