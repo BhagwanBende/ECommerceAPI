@@ -2,7 +2,7 @@
 
 ## 🚀 Live Demo
 
-API Live on Azure: **[ecommerceapi-bhagwan-dkcbenbsdudvgwcx.centralindia-01.azurewebsites.net/swagger](https://ecommerceapi-bhagwan-dkcbenbsdudvgwcx.centralindia-01.azurewebsites.net/swagger)**
+API Live on Azure: **[ecommerceapi-bhagwan-dkcbenbsdudvgwcx.centralindia-01.azurewebsites.net/swagger](https://ecommerceapi-bhagwan-dkcbenbsdudvgwcx.centralindia-01.azurewebsites.net)**
 
 
 !\[.NET](https://img.shields.io/badge/.NET-8.0-512BD4?logo=dotnet)
