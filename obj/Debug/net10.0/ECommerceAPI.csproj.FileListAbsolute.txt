@@ -152,3 +152,12 @@ C:\Users\Admin\source\repos\ECommerceAPI\ECommerceAPI\obj\Debug\net10.0\refint\E
 C:\Users\Admin\source\repos\ECommerceAPI\ECommerceAPI\obj\Debug\net10.0\ECommerceAPI.pdb
 C:\Users\Admin\source\repos\ECommerceAPI\ECommerceAPI\obj\Debug\net10.0\ECommerceAPI.genruntimeconfig.cache
 C:\Users\Admin\source\repos\ECommerceAPI\ECommerceAPI\obj\Debug\net10.0\ref\ECommerceAPI.dll
+C:\Users\Admin\source\repos\ECommerceAPI\ECommerceAPI\bin\Debug\net10.0\Serilog.dll
+C:\Users\Admin\source\repos\ECommerceAPI\ECommerceAPI\bin\Debug\net10.0\Serilog.AspNetCore.dll
+C:\Users\Admin\source\repos\ECommerceAPI\ECommerceAPI\bin\Debug\net10.0\Serilog.Extensions.Hosting.dll
+C:\Users\Admin\source\repos\ECommerceAPI\ECommerceAPI\bin\Debug\net10.0\Serilog.Extensions.Logging.dll
+C:\Users\Admin\source\repos\ECommerceAPI\ECommerceAPI\bin\Debug\net10.0\Serilog.Formatting.Compact.dll
+C:\Users\Admin\source\repos\ECommerceAPI\ECommerceAPI\bin\Debug\net10.0\Serilog.Settings.Configuration.dll
+C:\Users\Admin\source\repos\ECommerceAPI\ECommerceAPI\bin\Debug\net10.0\Serilog.Sinks.Console.dll
+C:\Users\Admin\source\repos\ECommerceAPI\ECommerceAPI\bin\Debug\net10.0\Serilog.Sinks.Debug.dll
+C:\Users\Admin\source\repos\ECommerceAPI\ECommerceAPI\bin\Debug\net10.0\Serilog.Sinks.File.dll

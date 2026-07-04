@@ -23,7 +23,6 @@ public class OrdersController : ControllerBase
     {
         _db = db;
         _logger = logger;
-        _httpClient = httpClientFactory.CreateClient("NotificationService");
     }
 
     private int GetUserId() =>
