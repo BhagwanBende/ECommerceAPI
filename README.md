@@ -2,9 +2,8 @@
 
 ## 🚀 Live Demo
 
-API Live आहे Azure वर: **[ecommerceapi-bhagwan.azurewebsites.net/swagger](https://ecommerceapi-bhagwan-dkcbenbsdudvgwcx-centralindia-01.azurewebsites.net/swagger)**
+API Live on Azure: **[ecommerceapi-bhagwan-dkcbenbsdudvgwcx.centralindia-01.azurewebsites.net/swagger](https://ecommerceapi-bhagwan-dkcbenbsdudvgwcx.centralindia-01.azurewebsites.net/swagger)**
 
-> Note: Free tier वापरलं आहे — पहिली request थोडी slow असू शकते (cold start)
 
 !\[.NET](https://img.shields.io/badge/.NET-8.0-512BD4?logo=dotnet)
 
